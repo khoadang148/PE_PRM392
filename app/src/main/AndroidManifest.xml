@@ -31,6 +31,8 @@
         <activity android:name=".MapActivity"/>
         <activity android:name=".MajorManagement"/>
         <activity android:name=".StudentManagement"/>
+        <activity android:name=".MajorListActivity"/>
+
 
         <activity
             android:name=".MainActivity"
